@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there Its Future , The Vibe Code FinalBoss<br><br> i Guineunly dont know what  i am doing but AI does 😭😭😭 , .<br><br>🤝 I’m looking to collaborate on real-world ML projects, smart automation tools, and innovative startup ideas.<br><br>👐 so if you want to sit and talk about School ,Reading, Life and Understandging Code , This is the wrong place buddy💔💔🙏 .<br><br>😂Tbh i just wann get out of the Hood fr , So we finna Code our way out😭😭🙏<br><br>💬 Ask me about Python development, YOLO object detection, OpenCV, or turning ideas into working prototypes.<br><br>⚡ Fun fact: I love building intelligent systems that feel almost human — especially ones that can “talk back.”
+👋 Hi there Its Future , The Vibe Code FinalBoss! i Guineunly dont know what  i am doing but AI does 🥀🥀😭😭😭 , .<br><br>🤝 I’m looking to collaborate on real-world ML projects, smart automation tools, and innovative startup ideas. 🙄so if you want to sit and talk about School ,Reading, Life and Understandging Code , This is the wrong place buddy💔💔🙏 .<br><br>😂Tbh i just wann get out of the Hood fr , So we finna Code our way out😭😭🙏<br>
 
 
 ## 🌐 Socials:
