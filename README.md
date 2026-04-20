@@ -1,4 +1,5 @@
-                                                what do you want Nigga?
+                                                what do you want Nigga!
+                                                
 
 
 ## 🌐 Socials:
