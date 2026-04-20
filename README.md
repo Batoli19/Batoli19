@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi there Its Future , The Vibe Code FinalBoss! i Guineunly dont know what  i am doing but AI does 🥀🥀😭😭😭 , .<br><br>🤝 I’m looking to collaborate on real-world ML projects, smart automation tools, and innovative startup ideas. 🙄so if you want to sit and talk about School ,Reading, Life and Understandging Code , This is the wrong place buddy💔💔🙏 .<br><br>😂Tbh i just wann get out of the Hood fr , So we finna Code our way out😭😭🙏<br>
+                                                what do you want Nigga?
 
 
 ## 🌐 Socials:
