@@ -2,9 +2,12 @@
 
 > *Builder. Founder. Footballer. Probably debugging something right now.*
 
-I build AI systems, automation tools, and infrastructure software out of **Gaborone, Botswana** 🇧🇼 — proving that world-class tech doesn't require a Silicon Valley zip code.
+I build AI systems, quant tools, and automation software out of **Gaborone, Botswana** 🇧🇼  
+Proving that world-class tech doesn't require a Silicon Valley zip code.
 
-Founder of **Eager Engineres ( a failed start up🥀🙏)** — AI automation for African businesses. Also running **Greenzikh ( also a failed start up💔🙏)**, a multi-service infrastructure company. By day I write Python, by night I argue with backtesting results.
+Founder of **Eager Engineers** *(a failed startup 🥀🙏)* — AI automation for African businesses.  
+Also ran **Greenzikh** *(also a failed startup 💔🙏)* — multi-service infrastructure company.  
+By day I write Python. By night I argue with backtesting results. The bot is almost profitable. *Almost.*
 
 ---
 
@@ -16,19 +19,43 @@ Founder of **Eager Engineres ( a failed start up🥀🙏)** — AI automation fo
 
 ---
 
+## ⚔️ War Room — What I'm Actually Building
+
+> *Not side projects. Ongoing operations.*
+
+| Project | What it is | Status |
+|---|---|---|
+| 🤖 **ICT Algo Trading Bot** | XGBoost ML brain + ICT strategy engine on GBPUSD/USDJPY | 🟢 Live & running |
+| 👁️ **Cyrelo AI** | YOLOv8 surveillance platform with real-time tracking | 🟡 In development |
+| 🧠 **FirstMinds** | AI automation agency targeting African businesses | 🔵 Building |
+| 📊 **Synthetic Indices Bot** | Bollinger mean reversion on Deriv R_75 via WebSocket | 🟡 Optimising |
+
+---
+
 ## 💻 Tech Stack
 
 > Curated. Not a kitchen sink.
 
-**Languages**
+**🧠 AI / ML / Quant** ← *start here*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23189fdd.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**🗣️ Languages**
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**⚙️ Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,32 +64,20 @@ Founder of **Eager Engineres ( a failed start up🥀🙏)** — AI automation fo
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Databases**
+**🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Deploy & DevOps**
+**🚀 Deploy & DevOps**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -89,6 +104,16 @@ Founder of **Eager Engineres ( a failed start up🥀🙏)** — AI automation fo
 ### 🔝 Top Contributions
 
 ![](https://github-contributor-stats.vercel.app/api?username=Batoli19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+<details>
+<summary>🐍 <b>Contribution Snake</b> — watch my commits get eaten alive</summary>
+<br>
+
+![snake gif](https://github.com/Batoli19/Batoli19/blob/output/github-contribution-grid-snake-dark.svg)
+
+</details>
 
 ---
 
