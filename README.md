@@ -2,7 +2,7 @@
 
 > *Builder. Founder. Footballer. Probably debugging something right now.*
 
-I build AI systems, quant tools, and automation software out of **Gaborone, Botswana** 🇧🇼  
+I build  Failed start-ups ,AI systems, quant tools, and automation software out of **Gaborone, Botswana** 🇧🇼  
 Proving that world-class tech doesn't require a Silicon Valley zip code.
 
 Founder of **Eager Engineers** *(a failed startup 🥀🙏)* — AI automation for African businesses.  
