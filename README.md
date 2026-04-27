@@ -49,6 +49,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 
 **🗣️ Languages**
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -84,9 +85,9 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Batoli19&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Batoli19&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -94,11 +95,11 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 ## 🗺️ Top Languages — What I Actually Write
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=10&card_width=500" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=10&card_width=500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&card_width=800" alt="Top Languages Breakdown" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&card_width=800" />
 </p>
 
 ---
@@ -106,7 +107,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Batoli19&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Batoli19&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
@@ -114,7 +115,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 ### ✍️ Today's Wisdom
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -122,7 +123,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 ### 🔝 Top Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Batoli19&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Batoli19&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -133,7 +134,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
