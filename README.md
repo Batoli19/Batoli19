@@ -25,7 +25,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 
 | Project | What it is | Status |
 |---|---|---|
-| 🤖 **ICT Algo Trading Bot** | XGBoost ML brain + ICT strategy engine on GBPUSD/USDJPY | 🟢 Live & running |
+| 🤖 **OPUS34 quantitave Ago** | XGBoost ML brain + ICT strategy engine on GBPUSD/USDJPY | 🟢 Live & running |
 | 👁️ **Cyrelo AI** | YOLOv8 surveillance platform with real-time tracking | 🟡 In development |
 | 🧠 **FirstMinds** | AI automation agency targeting African businesses | 🔵 Building |
 | 📊 **Synthetic Indices Bot** | Bollinger mean reversion on Deriv R_75 via WebSocket | 🟡 Optimising |
