@@ -2,7 +2,7 @@
 
 > *Builder. Founder. Footballer. Probably debugging something right now.*
 
-I build  Failed start-ups ,AI systems, quant tools, and automation software out of **Gaborone, Botswana** 🇧🇼  
+I build Failed start-ups, AI systems, quant tools, and automation software out of **Gaborone, Botswana** 🇧🇼  
 Proving that world-class tech doesn't require a Silicon Valley zip code.
 
 Founder of **Eager Engineers** *(a failed startup 🥀🙏)* — AI automation for African businesses.  
@@ -25,7 +25,7 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 
 | Project | What it is | Status |
 |---|---|---|
-| 🤖 **OPUS34 quantitave Ago** | XGBoost ML brain + ICT strategy engine on GBPUSD/USDJPY | 🟢 Live & running |
+| 🤖 **OPUS34 Quantitative Algo** | XGBoost ML brain + ICT strategy engine on GBPUSD/USDJPY | 🟢 Live & running |
 | 👁️ **Cyrelo AI** | YOLOv8 surveillance platform with real-time tracking | 🟡 In development |
 | 🧠 **FirstMinds** | AI automation agency targeting African businesses | 🔵 Building |
 | 📊 **Synthetic Indices Bot** | Bollinger mean reversion on Deriv R_75 via WebSocket | 🟡 Optimising |
@@ -83,38 +83,64 @@ By day I write Python. By night I argue with backtesting results. The bot is alm
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Batoli19&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Batoli19&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🗺️ Top Languages — What I Actually Write
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=10&card_width=500" alt="Top Languages Donut" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoli19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&card_width=800" alt="Top Languages Breakdown" />
+</p>
 
 ---
 
 ## 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Batoli19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Batoli19&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</p>
 
 ---
 
 ### ✍️ Today's Wisdom
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
 
 ### 🔝 Top Contributions
 
-![](https://github-contributor-stats.vercel.app/api?username=Batoli19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Batoli19&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</p>
 
 ---
 
-<details>
-<summary>🐍 <b>Contribution Snake</b> — watch my commits get eaten alive</summary>
-<br>
+## 🐍 My Commits, Getting Eaten
 
-![snake gif](https://github.com/Batoli19/Batoli19/blob/output/github-contribution-grid-snake-dark.svg)
-
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Batoli19/Batoli19/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Batoli19&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Batoli19&icon=0&color=0" />
+  </a>
+</p>
