@@ -1,14 +1,10 @@
-# Hey, I'm Future Batoli 👋
+Hey, I'm Future Batoli 👋
 
-> *Builder. Founder. Footballer. Probably debugging something right now.*
+Builder. Founder. Footballer. Probably debugging something right now.
 
-<sub>
-I build failed start-ups, AI systems, quant tools, and automation software out of <b>Gaborone, Botswana</b> 🇧🇼 — proving that world-class tech doesn't require a Silicon Valley zip code.
+I build Failed start-ups, AI systems, quant tools, and automation software out of Gaborone, Botswana 🇧🇼Proving that world-class tech doesn't require a Silicon Valley zip code.
 
-Founder of <b>Eager Engineers</b> <i>(a failed startup 🥀🙏)</i> — AI automation for African businesses.  
-Also ran <b>Greenzikh</b> <i>(also a failed startup 💔🙏)</i> — multi-service infrastructure company.  
-By day I write Python. By night I argue with backtesting results. The bot is almost profitable. <i>Almost.</i>
-</sub>
+Founder of Eager Engineers (a failed startup 🥀🙏) — AI automation for African businesses.Also ran Greenzikh (also a failed startup 💔🙏) — multi-service infrastructure company.By day I write Python. By night I argue with backtesting results. The bot is almost profitable. Almost.
 
 ## 🌐 Find Me
 
