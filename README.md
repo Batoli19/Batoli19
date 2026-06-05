@@ -1,5 +1,5 @@
 
-What you are looking for is for sure not here!
+                AI WONT TAKE UR J*b IF YOU ARE UNEMPLOYED🙏   - THOMAS EDISON
 
 
 # 💻 Tech Stack:
